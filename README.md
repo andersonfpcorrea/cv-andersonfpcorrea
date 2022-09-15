@@ -1,3 +1,7 @@
-# My Curriculum Vitae
+# Curriculum Vitae
 
-Click _[here](https://andersonfpcorrea.github.io/my-cv/)_ to access my CV.
+<br/>
+
+🇧🇷 Clique _[aqui](https://cv-andersonfpcorrea.pages.dev/)_ para ver meu CV.
+
+🇬🇧 Click _[here](https://cv-andersonfpcorrea.pages.dev/)_ to access my CV.
