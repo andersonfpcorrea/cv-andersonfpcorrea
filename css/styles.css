@@ -11816,13 +11816,18 @@ section.resume-section .resume-section-content {
   }
 }
 
-.pos-rel {
-  position: relative;
-}
-
-.flag-icon {
+.fixed-icons-container {
+  display: flex;
+  gap: 1.2rem;
   position: fixed;
   bottom: 1rem;
   right: 1rem;
-  width: 2.4rem;
+}
+
+.fixed-icon {
+  width: 3rem;
+}
+
+.fixed-icon:hover {
+  filter: brightness(1.1);
 }
